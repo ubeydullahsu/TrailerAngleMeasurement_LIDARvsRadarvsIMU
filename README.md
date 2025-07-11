@@ -74,6 +74,8 @@ Radar: RMSE = 1.915°
 IMU  : RMSE = 14.906°
 
 ```
+5. **Simulation Output**
+![Trailer Angle Measurement Simulation](https://github.com/ubeydullahsu/TrailerAngleMeasurement_LIDARvsRadarvsIMU/raw/main/simulation.gif)
 
 ## Key Findings
 
