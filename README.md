@@ -7,7 +7,7 @@ This MATLAB simulation compares three sensor technologies (LIDAR, Radar, and IMU
 - Real-time animation of truck-trailer dynamics
 - Modular sensor simulation with mathematical foundations
 - Performance comparison using RMSE metrics
-- Professional visualization with live error plots
+- Visualization with live error plots
 
 ## Block Diagram
 
